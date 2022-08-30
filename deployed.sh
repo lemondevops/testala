@@ -5,3 +5,4 @@ deployment4
 deploy to staging environment
 echo success!
 Tested and accepted
+deploying tomcat
